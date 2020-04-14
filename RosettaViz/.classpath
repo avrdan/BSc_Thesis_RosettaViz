@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4/lib/jcalendar-1.4.jar" sourcepath="lib/jcalendar-1.4/src">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/RosettaVizDB/lib/jcalendar-1.4/jcalendar-doc-1.4.zip!/doc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4/lib/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4/lib/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4/lib/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.17/mysql-connector-java-5.1.17-bin.jar" sourcepath="lib/mysql-connector-java-5.1.17/src"/>
+	<classpathentry kind="lib" path="lib/JME3-18-10-2011/jMonkeyEngine3.jar" sourcepath="lib/JME3-18-10-2011/source">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/RosettaVizDB/lib/JME3-18-10-2011/javadoc.zip!/javadoc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jchart2d-3.2.1/jchart2d-3.2.1.jar" sourcepath="lib/jchart2d-3.2.1/jchart2d-src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/RosettaVizDB/lib/jchart2d-3.2.1/jchart2d-doc-3.2.1.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jchart2d-3.2.1/jide-oss-2.9.7.jar"/>
+	<classpathentry kind="lib" path="lib/jchart2d-3.2.1/xmlgraphics-commons-1.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.13/jfreechart-1.0.13.jar" sourcepath="lib/jfreechart-1.0.13/source">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/RosettaVizDB/lib/jfreechart-1.0.13/javadoc.zip!/javadoc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jcommon-1.0.16/jcommon-1.0.16.jar" sourcepath="lib/jcommon-1.0.16/source">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/RosettaVizDB/lib/jcommon-1.0.16/javadoc.zip!/javadoc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="SWT_CONTAINER/JFACE/PLATFORM"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
