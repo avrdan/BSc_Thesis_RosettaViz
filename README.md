@@ -7,16 +7,15 @@ In a nutsheel, the idea was to set up a base framework so that it can be easy to
 
 Some prototype screenshots follow. The first figure, shows the orbiting spacecraft(with a purple trace representing the time from simulation start to current simulation time)
 
-![](https://github.com/avrdan/BSc_Thesis_RosettaViz/RosettaCometAxes.png)
-
+![](https://github.com/avrdan/BSc_Thesis_RosettaViz/blob/master/RosettaOrbit.png)
 
 Next, the Spacecraft's boresight as it intersects the comet is shown:
 
-![](https://github.com/avrdan/BSc_Thesis_RosettaViz/RosettaBoresight.PNG)
+![](https://github.com/avrdan/BSc_Thesis_RosettaViz/blob/master/RosettaBoresight.PNG)
 
 The last figure shows the two main objects(comet and Rosetta), with their XYZ axes (albeit with a huge scale on the axis of the comet) and other details.
 
-![](https://github.com/avrdan/BSc_Thesis_RosettaViz/RosettaOrbit.png)
+![](https://github.com/avrdan/BSc_Thesis_RosettaViz/blob/master/RosettaCometAxes.png)
 
 
 Why was Java used as the main language? This was a project constraint :). An analysis of tools is included in the thesis.
