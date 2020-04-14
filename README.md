@@ -11,7 +11,7 @@ Some prototype screenshots follow. The first figure, shows the orbiting spacecra
 
 Next, the Spacecraft's boresight as it intersects the comet is shown:
 
-![](https://github.com/avrdan/BSc_Thesis_RosettaViz/blob/master/RosettaBoresight.PNG)
+<img src="https://github.com/avrdan/BSc_Thesis_RosettaViz/blob/master/RosettaBoresight.PNG" width="462" height="426">
 
 The last figure shows the two main objects(comet and Rosetta), with their XYZ axes (albeit with a huge scale on the axis of the comet) and other details.
 
